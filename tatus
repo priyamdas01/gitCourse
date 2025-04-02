@@ -1,0 +1,63 @@
+[33mcommit 2002dd86fed2231946a140b0a0b95ec7a7b940ee[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew-branch[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: bc136ae 856d0d8
+Author: Priyam Das <87291915+priyamdas01@users.noreply.github.com>
+Date:   Thu Mar 20 04:24:41 2025 -0400
+
+    Merge pull request #1 from priyamdas01/feature
+    
+    beat this mf
+
+[33mcommit 856d0d89769a3d408bdccb93e9c87b7d3fb50aec[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m
+Author: Priyam Das <12priyamdas34@gmail.com>
+Date:   Thu Mar 20 04:22:30 2025 -0400
+
+    take it now
+
+[33mcommit 0cce45c83f4260e1095066f848601c7229f81af2[m
+Author: Priyam Das <12priyamdas34@gmail.com>
+Date:   Thu Mar 20 04:15:02 2025 -0400
+
+    beat this mf
+
+[33mcommit bc136ae4a430c131da5beaeda47078d2eca1f37a[m
+Merge: 1bb0d07 e6de5cf
+Author: Priyam Das <12priyamdas34@gmail.com>
+Date:   Thu Mar 20 03:53:14 2025 -0400
+
+    Merge branch 'yet-another-branch' into feature
+
+[33mcommit e6de5cf856be8b8fa98981bdbab56278027dd12c[m[33m ([m[1;32myet-another-branch[m[33m)[m
+Author: Priyam Das <12priyamdas34@gmail.com>
+Date:   Thu Mar 20 02:58:02 2025 -0400
+
+    yet anothe branch's first commit
+
+[33mcommit 1bb0d070a22743deb4346c23789ccec3389ca61b[m
+Author: Priyam Das <12priyamdas34@gmail.com>
+Date:   Thu Mar 20 02:54:07 2025 -0400
+
+    new file on feature added
+
+[33mcommit a8a1a4cfeceac934e8a4c49852e45548723cbcae[m
+Author: Priyam Das <12priyamdas34@gmail.com>
+Date:   Thu Mar 20 02:49:02 2025 -0400
+
+    feature branch commit
+
+[33mcommit 5fe4b1f9fb901819d654e56917bb1abf18582d7c[m
+Author: Priyam Das <12priyamdas34@gmail.com>
+Date:   Thu Mar 20 02:47:08 2025 -0400
+
+    master branch commit
+
+[33mcommit 09fac8ba95cdd34b9235ce40a1374cdf1c0c1e5d[m
+Author: Priyam Das <12priyamdas34@gmail.com>
+Date:   Thu Mar 20 02:36:21 2025 -0400
+
+    initial commit
+
+[33mcommit b5278d2234e63e344bd5e593a119f02ddb865141[m
+Author: Priyam Das <87291915+priyamdas01@users.noreply.github.com>
+Date:   Thu Mar 20 02:06:19 2025 -0400
+
+    Initial commit
